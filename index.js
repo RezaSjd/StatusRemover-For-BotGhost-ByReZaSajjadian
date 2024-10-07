@@ -42,7 +42,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Watching Delta Members", "Watching Your Eyes👀", "Playing 𝗧𝗕 𝗙𝗠"];
-const statusTypes = [ 'Online', 'idle'];
+const statusTypes = [ 'Online', 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
