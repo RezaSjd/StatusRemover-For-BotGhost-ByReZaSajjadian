@@ -5,4 +5,4 @@ The code, and content of this application are protected by international copyrig
 
 GlaceYT retains all rights, including but not limited to the right to use, copy, distribute, and make derivative works of this application.
 
-For inquiries about licensing, please contact [RTX#2419 , ADMIN#1765].
+For inquiries about licensing, please contact [RezaSajjadian#0001].
